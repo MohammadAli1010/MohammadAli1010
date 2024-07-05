@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadali1010&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadali1010" /> </p>
 
-- 🔭 I’m currently working on **Augmented Reality**
+- 🔭 I’m currently working on **A Whole lot of Nothing.**
 
-- 🌱 I’m currently learning **ARCore**
+- 🌱 I’m currently learning **English/Spanish.**
 
 - 💬 Ask me about **Anime !**
 
