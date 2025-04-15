@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">A Frontend Dev, UI is my Forte.</h3>
+<h3 align="center">A Frontend Full Stack Developer !</h3>
 <img align="right" alt="gojo" width="400" src="https://i.pinimg.com/originals/c1/3e/7f/c13e7f371b14f93e91808200631b8a81.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadali1010&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadali1010" /> </p>
 
-- 🔭 I’m currently working on **A Whole lot of Nothing.**
+- 🔭 I’m currently working on **Abstracta**
 
-- 🌱 I’m currently learning **English/Spanish.**
+- 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **Anime !**
+- 💬 Ask me about **Tech !**
 
 - 📫 How to reach me **mohammadali991001@gmail.com**
 
